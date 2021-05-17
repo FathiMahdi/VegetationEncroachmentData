@@ -21,9 +21,8 @@
                       ffff         aaaaaaaaaaaaaaaa  ttt    hhh   hhh   iii
                       ffff         aaaaaaaaaaaaaaaa  ttt    hhh   hhh   iii
                                                                
-# developed in 12/FEB/20121
+# developed in 12/FEB/2021
 
 # developed by FATHI MAHDI ELSIDDIG HAROUN
 
-# VegetationEncroachmentData
 This repository contains the dataset used in the vegetation encroachment detection study
